@@ -15,9 +15,9 @@ Runkeeper Features: https://youtu.be/1b8OkEcsMrw
 (Acronyms are based on papers related to the RV continuum, also shown in class.)
 
 Question 1 options:
-- A
+- A 
 - E
-- B
+- B ✅
 - D
 - C
 
@@ -30,7 +30,7 @@ What dimension of the original Milgram-Kishino's RV continuum (Milgram and Kishi
 Question 2 options:
 - EWK
 - CO
-- EPM
+- EPM ✅
 - IM
 - RF
 
@@ -39,11 +39,11 @@ Question 2 options:
 Which of the following is/are characteristic experiential dimensions of flow known in current research literature?
 
 Question 3 options:
-- Warped sense of time
+- Warped sense of time ✅
 - Involvement
-- Sense of Control
-- Loss of self-consciousness
-- Effortlessness
+- Sense of Control ✅
+- Loss of self-consciousness ✅
+- Effortlessness ✅
 - Realness
 
 ## Question 4
@@ -53,10 +53,10 @@ Your UX team aims to enhance the sense of control and reduce self-consciousness,
 What is/are the possible famous validated questionnaires to use in the user studies, pertinent to the aims above, to aid in design decisions for your UX team?
 
 Question 4 options:
-- Virtual Reality Sickness Questionnaire (VRSQ)
-- Igroup Presence Questionnaire (IPQ)
+- Virtual Reality Sickness Questionnaire (VRSQ) ✅
+- Igroup Presence Questionnaire (IPQ) ✅
 - Systems Usability Scale (SUS)
-- Simulator Sickness Questionnaire (SSQ)
+- Simulator Sickness Questionnaire (SSQ) ✅
 - Flow State Scale (FSS)
 
 ## Question 5
@@ -66,11 +66,11 @@ When designing for immersion in the next version of our VR commuting simulator, 
 Which of the following is/are suitable approaches that translate this goal into implementation?
 
 Question 5 options:
-- add AI-driven human characters with realistic behaviors in the simulation
-- implement teleportation locomotion instead of the current walking-in-place locomotion
-- increase the visual fidelity of the graphics with custom physically based rendering shaders
+- add AI-driven human characters with realistic behaviors in the simulation ✅
+- implement teleportation locomotion instead of the current walking-in-place locomotion 
+- increase the visual fidelity of the graphics with custom physically based rendering shaders ✅
 - implement mechanics to structure the commuting experience akin to completing progressively challenging levels in a game setting
-- implement real-walking locomotion (tracking actual walking in a room-scale setting) instead of the current walking-in-place locomotion
+- implement real-walking locomotion (tracking actual walking in a room-scale setting) instead of the current walking-in-place locomotion ✅
 - implement GUI elements to present clear goals for the user to attain at every point of the commuting experience
 
 ## Question 6
@@ -80,13 +80,13 @@ You are developing a VR cooking simulator that allows players to engage in culin
 Which of the implementation element(s) below would enhance the affordances for interactions within the simulator?
 
 Question 6 options:
-- Dynamic haptic feedback that simulates the sensations of cutting through different textures or the resistance of stirring a thick stew
+- Dynamic haptic feedback that simulates the sensations of cutting through different textures or the resistance of stirring a thick stew ✅
 - Integrating realistic background sounds to simulate a bustling kitchen environment
-- Virtual utensils and ingredients designed with features like indentations or handles that indicate how they should be held or used
+- Virtual utensils and ingredients designed with features like indentations or handles that indicate how they should be held or used ✅
 - Having increasing difficulty levels in the cooking tasks
-- Precise hand-tracking with finger-tracker gloves for detailed manipulation of kitchen tools and ingredients
-- Implementing advanced AI for non-player character interactions within the kitchen
-- Subtle visual cues on interactive elements, such as a shimmer on ingredients ready to be chopped or a glow on pots that need attention
+- Precise hand-tracking with finger-tracker gloves for detailed manipulation of kitchen tools and ingredients ✅
+- Implementing advanced AI for non-player character interactions within the kitchen 
+- Subtle visual cues on interactive elements, such as a shimmer on ingredients ready to be chopped or a glow on pots that need attention ✅
 
 ## Question 7
 
@@ -94,7 +94,7 @@ What sort of affordance will most likely occur when you strap on HTC VIVE tracke
 
 Question 7 options:
 - The user will perform a natural walking action with the whole body to navigate in the virtual environment
-- The user will consciously use only the hands in his/her own way to navigate in the virtual environment
+- The user will consciously use only the hands in his/her own way to navigate in the virtual environment ✅
 - The user will consciously use only the feet in his/her own way to navigate in the virtual environment
 - The user will consciously use both the hands and feet in his/her own way to navigate in the virtual environment
 - The user will reach out for a VIVE controller to use the thumbstick to navigate in the virtual environment
@@ -107,9 +107,9 @@ What data collection method(s) would be suitable for evaluating whether this goa
 
 Question 8 options:
 - Let users fill in the IPQ
-- Perform semi-structured interviews with users
-- Let users fill in the FSS
-- Create telemetry tracking mechanisms to observe users
+- Perform semi-structured interviews with users ✅
+- Let users fill in the FSS ✅
+- Create telemetry tracking mechanisms to observe users ✅
 - Let users fill in the VRSQ
 
 ## Question 9
@@ -119,9 +119,9 @@ In designing an HMD, you want to make the generated virtual image look taller ve
 What dimension(s) can you change to achieve this?
 
 Question 9 options:
-- Focal length of the lenses
-- Distance between the lenses and the physical display 
-- Height of the physical display
+- Focal length of the lenses ✅
+- Distance between the lenses and the physical display ✅  
+- Height of the physical display ✅
 - IPD between the lenses
 - Width of the physical display
 - Eye relief
@@ -136,7 +136,7 @@ Question 10 options:
 - Distance between the lenses and the physical display 
 - Vertical FOV
 - Distance between the lenses and the physical display
-- The size of the virtual image
+- The size of the virtual image ✅
 
 ## Question 11
 
@@ -145,10 +145,10 @@ What does changing the IPD of the lenses in an HMD affect?
 Question 11 options:
 - Distance between the lenses and the physical display
 - Distance between the lenses and the user's eyes
-- Horizontal FOV
+- Horizontal FOV ✅
 - Vertical FOV
 - Focal length of the lenses
-- How the virtual images are rendered for each eye
+- How the virtual images are rendered for each eye ✅
 
 ## Question 12
 
@@ -157,12 +157,12 @@ In designing an HMD, you want to expand the horizontal FOV.
 What dimension(s) can you change to achieve this?
 
 Question 12 options:
-- Width of the physical display
-- Eye relief
-- IPD between the lenses
-- Distance between the lenses and the physical display 
+- Width of the physical display ✅
+- Eye relief 
+- IPD between the lenses ✅
+- Distance between the lenses and the physical display   
 - Height of the physical display
-- Focal length of the lenses
+- Focal length of the lenses ✅
 
 ## Question 13
 
@@ -187,7 +187,7 @@ Question 14 options:
 - Move line 10 to newline below line 5
 - Remove line 2
 - Move line 17 to newline below line 10
-- Move line 17 to newline below line 5
+- Move line 17 to newline below line 5 ✅
 - Move line 10 to newline below line 17
 
 ## Question 15
@@ -202,7 +202,7 @@ Question 15 options:
 - package-lock.json
 - tsconfig.json
 - app.ts that contains your main app logic
-- package.json
+- package.json ✅
 
 ## Question 16
 
@@ -211,7 +211,7 @@ The code above allows the sphere to be dragged around...
 Question 16 options:
 - a plane parallel to the direction the player is viewing
 - a plane parallel to the ground
-- a plane perpendicular to the direction the player is viewing
+- a plane perpendicular to the direction the player is viewing 
 - in any direction
 
 ## Question 17
@@ -225,7 +225,7 @@ Question 17 options:
 - add an Observable to the sphere to get the position
 - add an Observer to the sphere to get the position
 - get the position of the sphere every second
-- add an Observer to the onDragObservable of the pointerDragBehavior to get the position
+- add an Observer to the onDragObservable of the pointerDragBehavior to get the position ✅
 
 ## Question 18
 
@@ -248,7 +248,7 @@ You can view the YouTube video below to get an idea of the gameplay.
 [Land's End YouTube Gameplay by VR Adventure](https://youtu.be/9NYMid2TU20)
 
 Question 19 options:
-- viewpoint control
+- viewpoint control ✅
 - body (excluding hands) gestures
 - hand gestures
 
@@ -257,7 +257,7 @@ Question 19 options:
 You are tasked to build a VR game where users can roam freely in a vast open world. The distances between points of interest in the game is rather large, around 10-20 kilometres. Cybersickness is the most important concern and augmentation of movement speeds is known to induce more symptoms.
 
 Question 20 options:
-- teleportation
+- teleportation ✅
 - joy-stick based
 - walking-in-place (WIP) with KatVR 360 slidemill
 - walking-in-place (WIP) with HTC Vive HMD and trackers
